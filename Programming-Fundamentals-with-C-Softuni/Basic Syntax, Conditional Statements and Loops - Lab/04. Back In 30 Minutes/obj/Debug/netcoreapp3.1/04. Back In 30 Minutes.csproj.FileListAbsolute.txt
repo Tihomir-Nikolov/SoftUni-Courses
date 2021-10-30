@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.exe
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.deps.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\bin\Debug\netcoreapp3.1\04. Back In 30 Minutes.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\04. Back In 30 Minutes\obj\Debug\netcoreapp3.1\04. Back In 30 Minutes.genruntimeconfig.cache

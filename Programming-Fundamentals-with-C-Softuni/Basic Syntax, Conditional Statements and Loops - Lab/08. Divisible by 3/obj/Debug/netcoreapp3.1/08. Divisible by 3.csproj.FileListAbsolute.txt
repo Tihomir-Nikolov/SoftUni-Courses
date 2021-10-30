@@ -1,0 +1,12 @@
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.exe
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.deps.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\bin\Debug\netcoreapp3.1\08. Divisible by 3.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\08. Divisible by 3\obj\Debug\netcoreapp3.1\08. Divisible by 3.genruntimeconfig.cache

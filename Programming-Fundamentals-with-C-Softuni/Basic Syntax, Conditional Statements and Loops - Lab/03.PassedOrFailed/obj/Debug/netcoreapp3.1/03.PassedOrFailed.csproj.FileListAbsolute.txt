@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.exe
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.deps.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\bin\Debug\netcoreapp3.1\03.PassedOrFailed.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\03.PassedOrFailed\obj\Debug\netcoreapp3.1\03.PassedOrFailed.genruntimeconfig.cache

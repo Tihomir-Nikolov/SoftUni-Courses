@@ -1,0 +1,12 @@
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.exe
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.deps.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Basic Syntax, Conditional Statements and Loops - Lab\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.genruntimeconfig.cache
