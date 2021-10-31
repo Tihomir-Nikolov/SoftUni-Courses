@@ -1,0 +1,12 @@
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.exe
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.deps.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\netcoreapp3.1\10. Lower or Upper.genruntimeconfig.cache

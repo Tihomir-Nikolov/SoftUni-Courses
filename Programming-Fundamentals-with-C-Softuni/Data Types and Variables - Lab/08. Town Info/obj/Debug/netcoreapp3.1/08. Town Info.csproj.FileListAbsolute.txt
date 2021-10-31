@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.exe
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.deps.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.exe
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.deps.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.genruntimeconfig.cache
