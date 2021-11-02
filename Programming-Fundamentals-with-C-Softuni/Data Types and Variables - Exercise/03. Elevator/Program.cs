@@ -1,0 +1,15 @@
+﻿using System;
+
+namespace _03._Elevator
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int capacity = int.Parse(Console.ReadLine());
+            int persons = int.Parse(Console.ReadLine());
+            int courses = (int)Math.Ceiling((double)capacity / persons);
+            Console.WriteLine(courses);
+        }
+    }
+}
