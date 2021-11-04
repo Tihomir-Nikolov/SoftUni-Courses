@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.exe
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.deps.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\netcoreapp3.1\07. Water Overflow.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\netcoreapp3.1\07. Water Overflow.genruntimeconfig.cache
