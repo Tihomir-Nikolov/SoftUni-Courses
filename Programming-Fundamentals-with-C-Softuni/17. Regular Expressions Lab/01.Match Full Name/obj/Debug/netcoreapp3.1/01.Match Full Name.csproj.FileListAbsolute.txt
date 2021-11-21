@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\bin\Debug\netcoreapp3.1\01.Match Full Name.exe
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\bin\Debug\netcoreapp3.1\01.Match Full Name.deps.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\bin\Debug\netcoreapp3.1\01.Match Full Name.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\bin\Debug\netcoreapp3.1\01.Match Full Name.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\bin\Debug\netcoreapp3.1\01.Match Full Name.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\bin\Debug\netcoreapp3.1\01.Match Full Name.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\obj\Debug\netcoreapp3.1\01.Match Full Name.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\obj\Debug\netcoreapp3.1\01.Match Full Name.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\obj\Debug\netcoreapp3.1\01.Match Full Name.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\obj\Debug\netcoreapp3.1\01.Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\obj\Debug\netcoreapp3.1\01.Match Full Name.dll
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\obj\Debug\netcoreapp3.1\01.Match Full Name.pdb
+C:\Users\snapr\Documents\SoftUni\Fundamentals\Regular Expressions Lab\01.Match Full Name\obj\Debug\netcoreapp3.1\01.Match Full Name.genruntimeconfig.cache
