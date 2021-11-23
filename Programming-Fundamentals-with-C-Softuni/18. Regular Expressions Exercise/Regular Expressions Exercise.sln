@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Furniture", "01.Furnitur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Race", "02. Race\02. Race.csproj", "{1FAB294B-71D8-49ED-8AEC-DB7AB9BDAD7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. SoftUni Bar Income", "03. SoftUni Bar Income\03. SoftUni Bar Income.csproj", "{F569452D-40F4-4BCC-B481-8B40C4439454}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1FAB294B-71D8-49ED-8AEC-DB7AB9BDAD7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FAB294B-71D8-49ED-8AEC-DB7AB9BDAD7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FAB294B-71D8-49ED-8AEC-DB7AB9BDAD7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F569452D-40F4-4BCC-B481-8B40C4439454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F569452D-40F4-4BCC-B481-8B40C4439454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F569452D-40F4-4BCC-B481-8B40C4439454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F569452D-40F4-4BCC-B481-8B40C4439454}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
