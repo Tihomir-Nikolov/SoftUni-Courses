@@ -1,0 +1,12 @@
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.exe
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.deps.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.exe
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.deps.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.genruntimeconfig.cache

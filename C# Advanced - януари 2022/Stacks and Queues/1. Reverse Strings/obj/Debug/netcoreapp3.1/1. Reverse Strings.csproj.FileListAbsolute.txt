@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.exe
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.deps.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse Strings.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse Strings.genruntimeconfig.cache

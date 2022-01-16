@@ -1,0 +1,12 @@
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.exe
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.deps.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\bin\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Stacks and Queues\6. Supermarket\obj\Debug\netcoreapp3.1\6. Supermarket.genruntimeconfig.cache
