@@ -9,70 +9,45 @@ namespace _08._Balanced_Parenthesis
         {
             string input = Console.ReadLine();
             Stack<char> parentheses = new Stack<char>();
-           
-            for (int i = 0; i < input.Length; i++)
+            bool isBalanced = true;
+            foreach (var item in input)
             {
-                if (input[i] == '(' || input[i] == '{' || input[i] == '[')
+                if (item == '{' || item == '(' || item == '[' )
                 {
-                    parentheses.Push(input[i]);
+                    parentheses.Push(item);
+                    continue;
+                }
+                if (parentheses.Count == 0)
+                {
+                    isBalanced = false;
+                    break;
+                }
 
+                if (item == '}' && parentheses.Peek() == '{')
+                {
+                    parentheses.Pop();
+                }
+                else if (item == ')' && parentheses.Peek() == '(')
+                {
+                    parentheses.Pop();
+                }
+                else if (item == ']' && parentheses.Peek() == '[')
+                {
+                    parentheses.Pop();
                 }
                 else
                 {
-                    if (input[i] == ')')
-                    {
-                        char currentParentheses = parentheses.Peek();
-                        if (currentParentheses == '(')
-                        {
-                            parentheses.Pop();
-                        }
-                        else
-                        {
-                            break;
-                            Console.WriteLine("NO");
-                        }
-                    }
-                    if (parentheses.Count > 0)
-                    {
-                        if (input[i] == '}')
-                        {
-                            char currentParentheses = parentheses.Peek();
-                            if (currentParentheses == '{')
-                            {
-                                parentheses.Pop();
-                            }
-                            else
-                            {
-                                break;
-                                Console.WriteLine("NO");
-                            }
-                        }
-                        else if (input[i] == ']')
-                        {
-                            char currentParentheses = parentheses.Peek();
-                            if (currentParentheses == '[')
-                            {
-                                parentheses.Pop();
-                            }
-                            else
-                            {
-                                break;
-                                Console.WriteLine("NO");
-                            }
-                        }
-                    }
-                    
-                } 
-                
+                    isBalanced = false;
+                    break;
+                }
             }
-            if (parentheses.Contains('(') || parentheses.Contains('[') || parentheses.Contains('{'))
+            if (!isBalanced || parentheses.Count > 0)
             {
                 Console.WriteLine("NO");
             }
             else
             {
                 Console.WriteLine("YES");
-                
             }
                 
         }
