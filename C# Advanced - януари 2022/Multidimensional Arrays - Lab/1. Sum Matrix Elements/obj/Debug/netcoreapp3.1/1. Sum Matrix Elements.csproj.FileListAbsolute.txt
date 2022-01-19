@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.exe
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.deps.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\Multidimensional Arrays - Lab\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.genruntimeconfig.cache
