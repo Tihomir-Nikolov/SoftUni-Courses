@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.exe
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.deps.json
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.json
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.dev.json
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.dll
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfo.cs
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.dll
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.exe
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.deps.json
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.runtimeconfig.json
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.runtimeconfig.dev.json
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.dll
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.pdb
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.AssemblyInfo.cs
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.dll
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.pdb
+C:\Users\snapr\Documents\GitHub\SoftUni-Courses\C# Advanced - януари 2022\05. Sets and Dictionaries Advanced - Lab\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.genruntimeconfig.cache
