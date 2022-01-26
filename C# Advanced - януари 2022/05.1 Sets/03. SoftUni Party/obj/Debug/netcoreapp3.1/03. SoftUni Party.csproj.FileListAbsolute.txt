@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\bin\Debug\netcoreapp3.1\03. SoftUni Party.exe
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\bin\Debug\netcoreapp3.1\03. SoftUni Party.deps.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\bin\Debug\netcoreapp3.1\03. SoftUni Party.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\bin\Debug\netcoreapp3.1\03. SoftUni Party.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\bin\Debug\netcoreapp3.1\03. SoftUni Party.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\bin\Debug\netcoreapp3.1\03. SoftUni Party.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\obj\Debug\netcoreapp3.1\03. SoftUni Party.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\obj\Debug\netcoreapp3.1\03. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\obj\Debug\netcoreapp3.1\03. SoftUni Party.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\obj\Debug\netcoreapp3.1\03. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\obj\Debug\netcoreapp3.1\03. SoftUni Party.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\obj\Debug\netcoreapp3.1\03. SoftUni Party.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\03. SoftUni Party\obj\Debug\netcoreapp3.1\03. SoftUni Party.genruntimeconfig.cache

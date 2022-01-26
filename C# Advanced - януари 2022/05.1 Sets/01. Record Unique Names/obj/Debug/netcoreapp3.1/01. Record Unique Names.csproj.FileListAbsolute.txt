@@ -1,0 +1,13 @@
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\bin\Debug\netcoreapp3.1\01. Record Unique Names.exe
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\bin\Debug\netcoreapp3.1\01. Record Unique Names.deps.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\bin\Debug\netcoreapp3.1\01. Record Unique Names.runtimeconfig.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\bin\Debug\netcoreapp3.1\01. Record Unique Names.runtimeconfig.dev.json
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\bin\Debug\netcoreapp3.1\01. Record Unique Names.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\bin\Debug\netcoreapp3.1\01. Record Unique Names.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\obj\Debug\netcoreapp3.1\01. Record Unique Names.csproj.AssemblyReference.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\obj\Debug\netcoreapp3.1\01. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\obj\Debug\netcoreapp3.1\01. Record Unique Names.AssemblyInfo.cs
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\obj\Debug\netcoreapp3.1\01. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\obj\Debug\netcoreapp3.1\01. Record Unique Names.dll
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\obj\Debug\netcoreapp3.1\01. Record Unique Names.pdb
+C:\Users\snapr\Documents\SoftUni\C# Advanced - януари 2022\05.1 Sets\01. Record Unique Names\obj\Debug\netcoreapp3.1\01. Record Unique Names.genruntimeconfig.cache
