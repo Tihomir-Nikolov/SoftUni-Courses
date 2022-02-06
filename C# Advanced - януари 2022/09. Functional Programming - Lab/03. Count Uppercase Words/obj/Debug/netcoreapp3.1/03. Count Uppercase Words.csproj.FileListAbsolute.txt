@@ -1,0 +1,13 @@
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.exe
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.deps.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.runtimeconfig.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.runtimeconfig.dev.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.dll
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp3.1\03. Count Uppercase Words.pdb
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.csproj.AssemblyReference.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.AssemblyInfo.cs
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.dll
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.pdb
+C:\Users\snapr\Desktop\blak\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp3.1\03. Count Uppercase Words.genruntimeconfig.cache
