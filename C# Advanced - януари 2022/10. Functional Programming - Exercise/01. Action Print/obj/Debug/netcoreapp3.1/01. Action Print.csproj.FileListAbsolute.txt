@@ -1,0 +1,13 @@
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.exe
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.deps.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.runtimeconfig.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.runtimeconfig.dev.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.dll
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\bin\Debug\netcoreapp3.1\01. Action Print.pdb
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.csproj.AssemblyReference.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.AssemblyInfoInputs.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.AssemblyInfo.cs
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.dll
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.pdb
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\01. Action Print\obj\Debug\netcoreapp3.1\01. Action Print.genruntimeconfig.cache
