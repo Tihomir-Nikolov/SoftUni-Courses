@@ -1,0 +1,12 @@
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.exe
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.deps.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.dev.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.dll
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfo.cs
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.dll
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.genruntimeconfig.cache

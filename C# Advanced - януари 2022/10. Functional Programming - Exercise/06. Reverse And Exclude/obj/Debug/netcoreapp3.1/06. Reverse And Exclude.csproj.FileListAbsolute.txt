@@ -1,0 +1,13 @@
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.exe
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.deps.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.runtimeconfig.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.runtimeconfig.dev.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.dll
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.pdb
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.AssemblyInfoInputs.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.AssemblyInfo.cs
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.dll
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.pdb
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.genruntimeconfig.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.csproj.AssemblyReference.cache

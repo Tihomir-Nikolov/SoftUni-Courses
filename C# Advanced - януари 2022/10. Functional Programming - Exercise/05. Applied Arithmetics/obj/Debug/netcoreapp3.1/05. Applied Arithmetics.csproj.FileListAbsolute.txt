@@ -1,0 +1,13 @@
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.exe
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.deps.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csproj.AssemblyReference.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+C:\Users\snapr\Desktop\blak\Functional Programming - Exercise\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.genruntimeconfig.cache
