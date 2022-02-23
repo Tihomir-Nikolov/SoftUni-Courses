@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "CustomStack\CustomStack.csproj", "{CE06DED4-DD6A-47B3-81F7-B294CADF478B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE06DED4-DD6A-47B3-81F7-B294CADF478B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE06DED4-DD6A-47B3-81F7-B294CADF478B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE06DED4-DD6A-47B3-81F7-B294CADF478B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE06DED4-DD6A-47B3-81F7-B294CADF478B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE8E3745-5754-4731-8FDD-B35EF850999D}
+	EndGlobalSection
+EndGlobal
