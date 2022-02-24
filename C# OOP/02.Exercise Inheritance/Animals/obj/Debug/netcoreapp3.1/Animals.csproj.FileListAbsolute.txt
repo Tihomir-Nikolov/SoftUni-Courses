@@ -1,0 +1,13 @@
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.AssemblyReference.cache
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

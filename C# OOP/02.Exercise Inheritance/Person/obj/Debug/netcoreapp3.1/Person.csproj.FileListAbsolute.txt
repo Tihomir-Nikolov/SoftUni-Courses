@@ -1,0 +1,13 @@
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\snapr\Desktop\csharp OOP\02.Exercise Inheritance\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
